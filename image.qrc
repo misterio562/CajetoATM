@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/bancolombialogo.png</file>
+        <file>images/10.png</file>
+        <file>images/20.jpeg</file>
+        <file>images/10.jpeg</file>
+        <file>images/50.jpeg</file>
+        <file>images/100.png</file>
+    </qresource>
+</RCC>
